@@ -14,6 +14,6 @@
 
 #### *依赖：*
 
-![](C:\Users\kingsoft\AppData\Roaming\Typora\typora-user-images\1542359134844.png)
+![](C:\Users\kingsoft\Desktop\T9U17%(_B}BML55QB%E6AH1.png)
 
-可以从Nuget包管理处下载。
+可以从**Nuget**包管理处下载。
