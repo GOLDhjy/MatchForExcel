@@ -1,0 +1,16 @@
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\Match.pdb
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\LinqToExcel.dll
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\Remotion.Data.Linq.dll
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\Remotion.dll
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\Remotion.Interfaces.dll
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\LinqToExcel.xml
+c:\users\kingsoft\source\repos\Match\Match\obj\Debug\Match.csproj.CoreCompileInputs.cache
+c:\users\kingsoft\source\repos\Match\Match\obj\Debug\Match.csproj.CopyComplete
+c:\users\kingsoft\source\repos\Match\Match\obj\Debug\Match.pdb
+c:\users\kingsoft\source\repos\Match\Match\bin\Debug\Match.dll
+C:\Users\kingsoft\source\repos\Match\Match\bin\Debug\LogSystem.dll
+C:\Users\kingsoft\source\repos\Match\Match\bin\Debug\LogSystem.pdb
+C:\Users\kingsoft\source\repos\Match\Match\bin\Debug\LogSystem.dll.config
+C:\Users\kingsoft\source\repos\Match\Match\bin\Debug\Match.dll.config
+C:\Users\kingsoft\source\repos\Match\Match\obj\Debug\Match.dll
+C:\Users\kingsoft\source\repos\Match\Match\obj\Debug\Match.csprojAssemblyReference.cache
